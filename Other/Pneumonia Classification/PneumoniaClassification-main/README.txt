@@ -7,5 +7,3 @@ Exploratory Data Analysis
 Data Normalizing
 Data Augmentation
 Model Training using CNN
-
-The result is 90% of accuracy.
